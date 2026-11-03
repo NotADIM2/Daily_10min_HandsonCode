@@ -1,1 +1,3 @@
-print("The sum of the two numbers is:", 5 + 3)
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+print("Hello, " + name + "! You are " + str(age) + " years old.")
